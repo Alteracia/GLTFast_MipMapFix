@@ -5,7 +5,7 @@ Fix Unity plugin "GLTFast" mipmap issue
 - Use Unity 2020.3.1 (LTS)
 - Use Universal RP
 - Install [GLTFast](https://github.com/atteneder/glTFast) plugin
-- Load model "result.gltf" in runtime
+- Load model [result.gltf](https://yadi.sk/d/2lbcDajqgQ8wSg) in runtime
 # Expected result
 - Texture represented correctly in long and short distance, with filtering and mip maps
 # Actual result
