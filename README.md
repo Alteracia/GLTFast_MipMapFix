@@ -12,4 +12,4 @@ Fix Unity plugin "GLTFast" mipmap issue
 - Texture represented as "sharp" colorize "noise" in long distance without filtering and mip maps
 # Limitation
 - Model can be processed, but should be still .gltf (.glb also not exepteble)
-- GLTFast plugin should remain in "Packeges" you can put source code in to "Assets" folder
+- GLTFast plugin should remain in "Packeges" you can't put source code in to "Assets" folder
